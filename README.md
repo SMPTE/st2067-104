@@ -8,7 +8,7 @@ Publication includes:
 Please submit an [issue](https://github.com/SMPTE/st2067-104/issues) if you have a comment or suggestion.
 
 Project details:
-1. Title - 35PM-ST-2067-10x-OPL-Composite and Blend Macros
+1. Title - 35PM-ST-2067-104-OPL-Composite and Blend Macros
 2. Description - 
 This project develops the processing macros for image composite and blending between a foreground and a background plate with an alpha (channel) image to control the operation. The macros are part of the IMF OPL framework defined by ST 2067-100.
 3. Problem to be Solved -
